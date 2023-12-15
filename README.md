@@ -1,5 +1,6 @@
 # vix_muamalat_bia
 This project is part of a Project-Based Internship: Bank Muamalat x Rakamin Academy assignments in order to complete the final task about creating a Dashboard as a Business Intelligence Analyst.
+
 The tools we used in this project are:
 - [Google BigQuery](https://console.cloud.google.com/)
 <img src="https://github.com/mpythree/vix_muamalat_bia/assets/86466306/e88ea4f4-81b8-4eb4-9f62-401791f692eb" alt="Girl in a jacket" width="200" height="100">
